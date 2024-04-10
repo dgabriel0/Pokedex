@@ -1,4 +1,4 @@
-#Pokedex
+# Pokedex
 
 Criei essa tabela com a maioria dos pokemons*, através de web scraping(raspagem de dados) utilizando python com as bibliotecas Beautiful Soup, pandas e a biblioteca deep-translator** para traduzir as descrições.
 
