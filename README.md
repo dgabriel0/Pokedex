@@ -10,7 +10,7 @@ https://sg.portal-pokemon.com/
 
 https://www.smogon.com/dex/sv/pokemon/
 
-Obs:Caso for rodar o codigo, pode demorar um pouco(uns 40 minutos), pois o codigo faz muitas e muitas requisições.
+Obs:Caso for rodar o codigo, pode demorar um pouco(uns 40 minutos), pois o codigo faz muitas e muitas requisições. Todos os sites foram acessados pela ultima vez no dia 10/04/2024
 
 .
 
